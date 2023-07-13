@@ -1,4 +1,4 @@
-module middleware-pakkad
+module pakkad.middleware
 
 go 1.19
 

@@ -15,4 +15,4 @@ type User struct {
 	LoginDate     time.Time `json:"login_date" query:"login_date" db:"login_date" gorm:"default:null;type:datetime;"`
 	LogoutDate    time.Time `json:"logout_date" query:"logout_date" db:"logout_date" gorm:"default:null;type:datetime;"`
 	CurrentStatus string
-} //
+}
