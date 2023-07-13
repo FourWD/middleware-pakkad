@@ -1,4 +1,4 @@
-module pakkad.middleware
+module github.com/FourWD/pakkad.middleware
 
 go 1.19
 
